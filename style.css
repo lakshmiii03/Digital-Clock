@@ -1,0 +1,25 @@
+body{
+ background-color: black;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+ height:100vh;
+ display:flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+.clock{
+ font-size: 14em;
+ position: relative;
+ text-align: center;
+ color: white;
+ border: 10px solid coral;
+}
+
+h1{
+ color:white;
+ font-size: 5em;
+}
